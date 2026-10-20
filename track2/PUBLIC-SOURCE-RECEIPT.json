@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "name": "GSE129811_family.soft.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE129nnn/GSE129811/soft/GSE129811_family.soft.gz",
+      "bytes": 5116,
+      "sha256": "f4389d301e7e861b296624530e5bb8daa8c7e5492c1fa86f1d2faf85eb090da8"
+    },
+    {
+      "name": "GSE129811_AWVM29samples.HTSeq.counts.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE129nnn/GSE129811/suppl/GSE129811_AWVM29samples.HTSeq.counts.tsv.gz",
+      "bytes": 1419441,
+      "sha256": "d09334fd7cae194d1fac02ddbd44c13aeb47f597734097c502f86032847629cc"
+    },
+    {
+      "name": "GSE129811_AWVM29samples.DESeq.normCounts.csv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE129nnn/GSE129811/suppl/GSE129811_AWVM29samples.DESeq.normCounts.csv.gz",
+      "bytes": 4060857,
+      "sha256": "b46fc5fbc1e892d98f6cb9c940416c73d81d13e59f343f5c496c874481a82b64"
+    }
+  ],
+  "expected_sensitivity_output_sha256": "7102acab0fd927b15865536123abad7eeb120b5bd3e08c0f741a96d7210e9cf6",
+  "note": "Source bytes are not bundled; hashes record the public downloads used."
+}

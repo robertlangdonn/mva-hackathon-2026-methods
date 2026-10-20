@@ -1,7 +1,16 @@
 # MVA Hackathon 2026 — methods and bounded replay
 
 Prepared by Prasad Khake for `robertlangdonn/mva-hackathon-2026-methods`.
-**Local candidate only: not published or submitted.**
+**Reviewed methods release, updated October 20, 2026.**
+
+## Track 2 — drug-repurposing hypothesis
+
+Read the [report](track2/donvitocorleone_track2_report.md), watch the
+[pitch video](https://youtu.be/OvHSbMbNW48), and see the
+[public RNA reproduction instructions](track2/PUBLIC-ANALYSIS.md).
+The proposal concerns nicotinic acid and residual BUBR1 function; it is not
+demonstrated MVA efficacy or treatment advice. The Track 1 code components below
+are preserved unchanged. Challenge acceptance is separate from publication.
 
 Four immutable demonstration archives and one separately reviewed phase/splice
 supplement are packaged side by side. They are independent versioned components,
@@ -63,13 +72,13 @@ read-evidence archive includes its scanner/CLI, while the supplement contains
 only the exact same `base_at` function. Keep these versioned contexts separate;
 the difference is not an instruction to replace either file.
 
-No patient data, nomination CSV, report capsule, private receipts/logs, databases,
+No patient data, nomination CSV, controlled Track 1 report capsule, private receipts/logs, databases,
 runtime binaries, third-party implementations or model weights are included.
 CC BY 4.0 applies only to participant-owned work. Read `LICENSE.md`,
 `THIRD_PARTY_NOTICES.md` and `supplement/THIRD_PARTY_NOTICES.md` for exclusions and
 version-specific dependency notices. No blanket third-party rights clearance or
-exhaustive privacy guarantee is claimed. Exact-byte publication and submission
-approval remain separate and have not been granted.
+exhaustive privacy guarantee is claimed. The participant authorized this reviewed
+release and Track 2 submission; publication alone is not a submission receipt.
 
 ## Acknowledgement and disclosure
 
@@ -82,5 +91,6 @@ Official challenge resources:
 https://huggingface.co/datasets/SageBio/mva-hackathon-2026-data and
 https://www.synapse.org/Synapse:syn76251147/wiki/642892 .
 
-AI assistance: the participant reports using OpenAI Codex only on a $20 plan;
+AI assistance: the participant reports using OpenAI Codex on a $20 plan;
 historical data-sharing settings and MVA-attributable costs are unknown.
+Track 2 additionally uses local Kokoro Heart synthetic narration.

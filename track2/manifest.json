@@ -1,0 +1,115 @@
+{
+  "status": "APPROVED_RELEASE_PACKAGE_SUBMISSION_RECEIPT_SEPARATE",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 25,
+      "sha256": "5d73632b1a5c5e4ced2104860ed6ca728252d99990522118a5c7bff3b30d2228"
+    },
+    {
+      "path": "PUBLIC-ANALYSIS.md",
+      "bytes": 1751,
+      "sha256": "71c79eea80e63d6934c976fe281e70d90729c3a611b8d70986bba90b154d555c"
+    },
+    {
+      "path": "PUBLIC-SOURCE-RECEIPT.json",
+      "bytes": 1101,
+      "sha256": "7c41fcd16f0323c6b4ca0c69ebe6aed1966fc0d3c3dd784ba1fc9479f5e9bf0f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1090,
+      "sha256": "1e70387305d89fd21d637a5ff7e7ddebfe1d4c21e34fe67415fe02b94092ab34"
+    },
+    {
+      "path": "RECORDING-SCRIPT.md",
+      "bytes": 2519,
+      "sha256": "2f2bbaba92d7042d87b9c593e26220ff7807f511e4ef0a774af4edfcbe4d0992"
+    },
+    {
+      "path": "docs/public-niacin-analysis-plan-2026-10-16.md",
+      "bytes": 3793,
+      "sha256": "6acddedb83a8691dc6fe6bba3754b71a324c744df0dd0037d1164cffc030ca2d"
+    },
+    {
+      "path": "docs/public-niacin-results-2026-10-16.md",
+      "bytes": 4754,
+      "sha256": "eb81edffc748a696070e8049c17e689dfcf6a38c7841bd8232df793a946f0e1c"
+    },
+    {
+      "path": "docs/public-niacin-sensitivity-plan-2026-10-16.md",
+      "bytes": 1980,
+      "sha256": "7639c03d3d679c8b8c53f9a416795790307ddfeedb05ddb05be81577c0e590f1"
+    },
+    {
+      "path": "docs/public-niacin-sensitivity-results-2026-10-16.md",
+      "bytes": 4257,
+      "sha256": "95ec33309f0eb1912c029550ca5e20f106218a470be17171c6a8366288dd5f06"
+    },
+    {
+      "path": "donvitocorleone_track2_pitch_v5.pptx",
+      "bytes": 36965,
+      "sha256": "29187cee1ed2bfa21f3343a3407fb1663d6da8e3fce1adba926610c3d3a2dc63"
+    },
+    {
+      "path": "donvitocorleone_track2_report.md",
+      "bytes": 24352,
+      "sha256": "56c7eb37cdf399f2d284d41867784d43171f0913390fbc0a3b62295b1b095e92"
+    },
+    {
+      "path": "scripts/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "scripts/public_niacin_author_intake.py",
+      "bytes": 694,
+      "sha256": "26f784d34cf0960fcd60ae1f120e72412cb11aff9825fce97d4683f2763c6309"
+    },
+    {
+      "path": "scripts/public_niacin_descriptive.py",
+      "bytes": 4485,
+      "sha256": "a1bcfa4b72590d6e7325a27945ea153aec797be7a5725e9e2efd9a35c948835c"
+    },
+    {
+      "path": "scripts/public_niacin_intake.py",
+      "bytes": 3013,
+      "sha256": "c08e330e317b6bfe3152f5f34194e4d7ac2261f227f4e3e423945b901ecdda0e"
+    },
+    {
+      "path": "scripts/public_niacin_sensitivity.py",
+      "bytes": 5930,
+      "sha256": "12b0da960e600f2ca2838084fe79cb4afdcefc031f1c891f850c4c0fc7e976d2"
+    },
+    {
+      "path": "tests/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "tests/test_public_niacin_intake.py",
+      "bytes": 1379,
+      "sha256": "64eb1e2726255d861fd8ebe58c7b8bbb5e23c9cc396c7590437df5c6bc57ccba"
+    },
+    {
+      "path": "tests/test_public_niacin_sensitivity.py",
+      "bytes": 1288,
+      "sha256": "439c19b0d170b9198aae3b07d319b53d5569deda0816e028ecc6f4cef86655d6"
+    },
+    {
+      "path": "track2-claim-evidence-audit.md",
+      "bytes": 4564,
+      "sha256": "b381e142f7c27e876f2ad0b8969b0af8faebaddf7d9921eef3f67b1ee60d44cf"
+    },
+    {
+      "path": "track2-experiment-analysis-plan.md",
+      "bytes": 5710,
+      "sha256": "8c5da86df525bb0ae491d0751aeca523d5c3febc5f716fea23193404e2a0f45b"
+    }
+  ],
+  "narration_words": 346,
+  "abstract_words": 140,
+  "source_report_sha256": "d69e22589a14868d083807254ec3de44d96b4c5dbee02de24d779ece32aa96db",
+  "scope": "Current report/pitch, public RNA methods/provenance; no patient data",
+  "video_url": "https://youtu.be/OvHSbMbNW48"
+}
